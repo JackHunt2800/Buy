@@ -1,3 +1,8 @@
+I have used materialUI, bootstrap, firebase for this projects
+
+
+
+
 React.JS
 React is JavaScript library for building user interfaces. It was developed at Facebook in 2011 and currently most popular JavaScript library for building user interfaces. Reacts strong suit is handling stateful, data-driven interfaces with minimal code and minimal pain, and it has all the bells and whistles expect from a modern web framework: great support for forms, error handling, events, lists, and more.
 Benefits
